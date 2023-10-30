@@ -1,3 +1,3 @@
 ibrahim vesek
 
- Java , Selenium , Appium , MySQL , Jenkins , REST API , AWS
+ Java , Selenium , Appium , MySQL , Jenkins , REST API , AWS 
